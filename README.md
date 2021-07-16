@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 ![Edder Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=edderluanps&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edderluanps&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edderluanps)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
