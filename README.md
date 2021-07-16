@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edderluanps&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Java Badge]]
+<img src="https://devicons.github.io/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>"
 
 <!--
 <details>
