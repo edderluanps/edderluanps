@@ -5,8 +5,14 @@
 
 Here are some ideas to get you started:
 
-!Edder Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=edderluanps&show_icons=true&theme=radical)
+![Edder Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=edderluanps&show_icons=true&theme=radical)
 
+<details>
+  <sumary> <b> Things to know about me! </b> <i> (Click to expand) </i> </sumary>
+
+  <br>
+    This is going to be hidden.
+</details>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
