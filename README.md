@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edderluanps&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://devicons.github.io/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>"
+## Skills
+
+<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
 
 <!--
 <details>
