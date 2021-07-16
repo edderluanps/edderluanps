@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edderluanps&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[java] [python]
+
 <!--
 <details>
   <sumary> <b> Things to know about me! </b> <i> (Click to expand) </i> </sumary>
