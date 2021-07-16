@@ -2,7 +2,8 @@
 
 Here are some ideas to get you started:
 
-![Edder Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=edderluanps&show_icons=true&theme=midnight-purple)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edderluanps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Edder Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=edderluanps&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edderluanps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
