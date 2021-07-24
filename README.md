@@ -1,4 +1,4 @@
-### Hello everyone, welcome to my github! ✋😎
+### Hello everyone, welcome to my github! ✌😎
 
 <!--
 Here are some ideas to get you started:
