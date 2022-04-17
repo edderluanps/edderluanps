@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edderluanps&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## My Stacks
+## My Stacks and technologies
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" alt="spring" width="40" height="40" style="max-width:100%;"></img>
