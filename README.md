@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png" alt="heroku" width="40" height="40" style="max-width:100%;"></img>
+
 <!--
 <details>
   <sumary> <b> Things to know about me! </b> <i> (Click to expand) </i> </sumary>
