@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá 🖐, eu sou Edder Luan, bem vindo ao meu Gitbub.
+Olá 👋, eu sou Edder Luan, bem vindo ao meu Gitbub.
 
 
 ## 🌐 Socials:
