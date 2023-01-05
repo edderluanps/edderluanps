@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá 👋, eu sou Edder Luan, bem vindo ao meu Gitbub.
+Hello 👋, I'm Eder Luan, Systems Analyst and Java developer. Welcome to my Gitbub.
 
 
 ## 🌐 Socials:
