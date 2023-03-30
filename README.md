@@ -13,6 +13,5 @@ Hi 🙋🏽‍♂️<br>i am Edder Luan, Java developer 👨🏽‍💻<br>Welco
 ![](https://github-profile-trophy.vercel.app/?username=edderluanps&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=edderluanps&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
