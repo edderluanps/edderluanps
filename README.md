@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edder Luan</h1>
-<h3 align="center">Brazilian Backend/Fullstack Software developer</h3>
+<h3 align="center"> Backend/Fullstack Software developer </h3>
 <p align="center">
 Welcome to my Github profile. Feel free to browse my projects. Feedbacks are always welcome. Contact me via email or Linkedin and give a star if a project helped you.
 </p>
